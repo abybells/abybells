@@ -1,6 +1,6 @@
 **Hi there** 👋
 
-👩‍💻 **About me:**Software Engineer
+👩‍💻 **About me:**
  I'm Abiola Bello, a passionate and determined software developer seeking to use proven skills in web development to meet business needs.
 
 📚 Current Education: I am learning and building projects with :
@@ -14,4 +14,5 @@ Backend: Ruby
 🎈 Fun fact: My first favourite movie was Terminator.
 
 Connect with me
+abbiolbello@yahoo.com
 abybells2@gmail.com
