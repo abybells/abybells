@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abiola Bello</h1>
-<h3 align="center">An aspiring software developer from Lagos, Nigeria</h3>
+<h3 align="center">A software developer from Lagos, Nigeria</h3>
 
 - 🔭 I’m currently working on **MePlay**
 
